@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Most Used Languages](https://raw.githubusercontent.com/darshanrampatel/github-stats-transparent/output/generated/languages.svg)
+
 <!--
 **darshanrampatel/darshanrampatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
