@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[Books I've read](https://dandrp.com/books)
 <!--
 ![GitHub Statistics](https://raw.githubusercontent.com/darshanrampatel/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/darshanrampatel/github-stats-transparent/output/generated/languages.svg)
